@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636204283 source:c:\users\andrew\documents\c++\[collatz conjecture] 3n+1\main.c
+	<stdio.h>
+	<stdlib.h>
+
