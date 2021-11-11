@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636053996 source:c:\users\andrew\documents\c++\ninetozero\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636186158 source:c:\users\andrew\documents\c\ninetozero\main.c
+	<stdio.h>
+	<stdlib.h>
+
